@@ -1,0 +1,18 @@
+<Mod ID="Day22SpawnChange">
+  <Compatible>0.68d</Compatible>
+  <Button Standard="O" ID="OpenGUI">
+    <Name>
+      <EN>OpenGUI</EN>
+    </Name>
+    <Description>
+      <EN>Open the UI to change spawn settings.</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Day22SpawnChange</EN>
+  </Name>
+  <Description>
+    <EN>Changes the spawnlists after day 22.</EN>
+  </Description>
+  <Version>1.0.2.2</Version>
+</Mod>
